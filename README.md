@@ -1,5 +1,5 @@
 # PAYTRACK for Windows, version 1.0
-Authors: Jarif Yasir, Ryan Irani, Aws Naser Alqaisi, Niveithan Parthipan
+Authors: Jarif Yasir, Ryan Irani
 
 PAYTRACK is a software for windows, created using C++ and QT
 
